@@ -1,4 +1,4 @@
-The code calculates and prints the sum of the Taylor Series for a given value of x and a number of terms n provided by user input. 
+The code in MIPS assembly calculates and prints the sum of the Taylor Series for a given value of x and a number of terms n provided by user input. 
 The implementation includes the functions fact, powerR, TaylorR, Taylor, and main. 
 The code uses floating-point arithmetic to convert certain values from integer to float.
 
